@@ -36,11 +36,11 @@ section {
 }
 
 section#section_ask {
-  background-color: white;
+  background-color: #ffcc99;
 }
 section#section_ask .col-sm-5.img {
   background-image: url(https://goo.gl/E2LVNc);
-  height: 280px;
+  height: 400px;
   background-size: cover;
 }
 
